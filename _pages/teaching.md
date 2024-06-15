@@ -26,3 +26,6 @@ GEOG 105 – Digital Earth, Graduate Teaching Assistant, Fall 2018
 ## University of Michigan
 
 EAS 541 – Remote Sensing of Environment, Graduate Student Instructor, Spring 2018
+- Instructed weekly lab sessions on remote sensing image processing with ERDAS
+- Held office hours and study sessions to help students prepare for exams
+- Revised grading rubrics for lab assignments and graded weekly lab assignments
