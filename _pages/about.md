@@ -16,7 +16,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hello! I am a recent graduate Ph.D. from the [Department of Geography and Geographic Information Science](https://ggis.illinois.edu/) at the [University of Illinois Urbana-Champaign](https://illinois.edu). 
+Hello! I am a recent Ph.D. graduate from the [Department of Geography and Geographic Information Science](https://ggis.illinois.edu/) at the [University of Illinois Urbana-Champaign](https://illinois.edu). 
 
 My research interest lies in the intersection of remote sensing, machine learning, agriculture, and environmental sustainability. My research leverages multi-scale remote sensing and geospatial data and advanced computational modeling methods to better understand ecosystem dynamics. Specifically, my recent works have been focusing on near real-time crop characterization (e.g., crop type mapping, crop phenology forecasting), spatiotemporal fusion of multi-scale remote sensing data, and understanding climate change impacts on agricultural systems.
 
