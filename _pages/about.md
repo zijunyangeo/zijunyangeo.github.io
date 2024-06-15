@@ -18,7 +18,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hello! I am a recent Ph.D. graduate from the [Department of Geography and Geographic Information Science](https://ggis.illinois.edu/) at the [University of Illinois Urbana-Champaign](https://illinois.edu).
+Hello! I am a recent Ph.D. graduate from the [Department of Geography and Geographic Information Science](https://ggis.illinois.edu/) at the [University of Illinois Urbana-Champaign](https://illinois.edu), where I worked with [Dr. Chunyuan Diao](https://ggis.illinois.edu/directory/profile/chunyuan) in the [Remote Sensing Space-Time Innovation Lab](https://diaorssilab.web.illinois.edu/).
 
 My research interest lies in the intersection of remote sensing, machine learning, agriculture, and environmental sustainability. Through the integration of multi-scale remote sensing, field data collection, and advanced computational modeling, I aim to better understand ecosystem dynamics and their interaction with the changing climate. Specifically, my recent works have been focusing on near real-time crop characterization (e.g., crop type mapping, crop phenology forecasting), spatiotemporal fusion of multi-scale remote sensing images, and modeling climate change impacts agricultural systems (e.g., how disturbance events affect crop production). 
 
