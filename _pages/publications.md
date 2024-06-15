@@ -2,9 +2,8 @@
 layout: page
 permalink: /publications/
 title: publications
-description: >
+description: |
   see <a href='https://scholar.google.com/citations?user=yble580AAAAJ&hl=en'>google scholar</a> for most recent publications
-  
   (* denotes equal contribution)
 nav: true
 nav_order: 2
