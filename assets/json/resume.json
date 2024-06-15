@@ -29,7 +29,8 @@
       "url": "https://ggis.illinois.edu/",
       "area": "",
       "studyType": "Ph.D. in Geography",
-      "startDate": "2024-05"
+      "startDate": "2018",
+      "endDate": "2024"
     },
     {
       "institution": "University of Michigan--Ann Arbor",
@@ -37,7 +38,8 @@
       "url": "https://seas.umich.edu/",
       "area": "",
       "studyType": "Master of Science in Natural Resources and Environment",
-      "startDate": "2018-08"
+      "startDate": "2016",
+      "endDate": "2018"
     },
     {
       "institution": "Sun Yat-sen University",
@@ -45,7 +47,8 @@
       "url": "https://gp.sysu.edu.cn/en",
       "area": "",
       "studyType": "Bachelor of Science in Geographic Information Systems",
-      "startDate": "2016-06"
+      "startDate": "2012",
+      "endDate": "2016"
     }
   ],
   "work": [
