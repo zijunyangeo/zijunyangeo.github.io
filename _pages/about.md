@@ -1,4 +1,4 @@
-![Image_20231006142926_2](https://github.com/zijunyangeo/zijunyangeo.github.io/assets/32804278/1325981b-34df-42e9-866d-1163a2962605)---
+---
 layout: about
 title: about
 permalink: /
