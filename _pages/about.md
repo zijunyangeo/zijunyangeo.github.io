@@ -10,6 +10,8 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>1042 Natural History Building</p>
+    <p>1301 W. Green St.</p>
+    <p>Urbana, IL 61820</p>
 
 news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
