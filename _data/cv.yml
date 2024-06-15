@@ -6,7 +6,7 @@
     - name: Email
       value: zijuny2 [at] illinois [dot] edu
     - name: Address
-    - value: 1042 Natural History Building<br>1301 W Green St<br>Urbana, IL 61801
+    - value: 1042 Natural History Building <br> 1301 W Green St <br> Urbana, IL 61801
 
 - title: Education
   type: time_table
