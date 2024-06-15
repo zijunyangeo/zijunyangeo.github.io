@@ -1,25 +1,25 @@
----
+![Image_20231006142926_2](https://github.com/zijunyangeo/zijunyangeo.github.io/assets/32804278/1325981b-34df-42e9-866d-1163a2962605)---
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='#'>Ph.D. in Geography</a>, University of Illinois Urbana-Champaign
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: zy_website_headshot.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>1042 Natural History Building</p>
 
-news: true # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+news: false # includes a list of news items
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hello! I am a recent graduate Ph.D. from the [Department of Geography and Geographic Information Science](https://ggis.illinois.edu/) at the [University of Illinois Urbana-Champaign](https://illinois.edu). 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My research interest lies in the intersection of remote sensing, machine learning, agriculture, and environmental sustainability. 
+
+Prior to UIUC, I obtained a Master of Science in Natural Resources and Environment from the [University of Michigan](https://seas.umich.edu), and a Bachelor of Science in Geographic Information Systems from [Sun Yat-sen University](https://www.sysu.edu.cn/sysuen/).
 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
