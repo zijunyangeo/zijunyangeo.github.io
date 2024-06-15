@@ -25,19 +25,28 @@
   "work": [
     {
       "name": "Department of Geography and GIScience, University of Illinois Urbana-Champaign",
+      "position": "Graduate Research Fellow",
+      "url": "",
+      "startDate": "2023-06",
+      "endDate": "2024-06",
+      "summary": "",
+      "highlights": ["Planet Fellowship", "Foster Graduate Fellowship", "Block Grant Fellowship"]
+    },
+    {
+      "name": "Department of Geography and GIScience, University of Illinois Urbana-Champaign",
       "position": "Graduate Research Assistant",
       "url": "",
       "startDate": "2019-05",
       "endDate": "2023-05",
       "summary": "",
-      "highlights": ""
+      "highlights": ["Developed machine learning approaches for near real-time crop characterization"]
     },
     {
       "name": "Department of Geography and GIScience, University of Illinois Urbana-Champaign",
       "position": "Graduate Teaching Assistant",
       "url": "",
       "startDate": "2018-08",
-      "endDate": "2029-05",
+      "endDate": "2019-05",
       "summary": "",
       "highlights": ["GEOG 105", "GEOG 379"]
     }
