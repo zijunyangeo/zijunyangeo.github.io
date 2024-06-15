@@ -1,5 +1,5 @@
 {
-  "general information": {
+  "basics": {
     "name": "Zijun Yang",
     "label": "",
     "image": "",
@@ -48,7 +48,7 @@
       "endDate": "2016-06"
     }
   ],
-  "Appointments": [
+  "work": [
     {
       "name": "Department of Geography and GIScience, University of Illinois Urbana-Champaign",
       "position": "Graduate Research Fellow",
