@@ -7,6 +7,10 @@ nav: true
 nav_order: 2
 ---
 
+see [google scholar](https://scholar.google.com/citations?user=yble580AAAAJ&hl=en) for most updated publications
+
+* denotes equal contribution
+
 <!-- _pages/publications.md -->
 <div class="publications">
 
