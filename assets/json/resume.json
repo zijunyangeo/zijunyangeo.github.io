@@ -68,7 +68,7 @@
       "startDate": "2019-05",
       "endDate": "2023-05",
       "summary": "",
-      "highlights": ["Developed machine learning approaches for near real-time crop characterization"]
+      "highlights": ["Machine learning approaches for near real-time crop characterization", "Spatiotemporal fusion of multi-scale remote sensing images"]
     },
     {
       "name": "Department of Geography and GIScience, University of Illinois Urbana-Champaign",
@@ -77,7 +77,16 @@
       "startDate": "2018-08",
       "endDate": "2019-05",
       "summary": "",
-      "highlights": ["GEOG 105", "GEOG 379"]
+      "highlights": ["GEOG 105 – Digital Earth", "GEOG 379 – Intro to GIS Systems"]
+    },
+    {
+      "name": "School for Environment and Sustainability, University of Michigan",
+      "position": "Graduate Student Instuctor",
+      "url": "",
+      "startDate": "2018-01",
+      "endDate": "2018-04",
+      "summary": "",
+      "highlights": ["EAS 541 – Remote Sensing of Environment"]
     }
   ]
 }
