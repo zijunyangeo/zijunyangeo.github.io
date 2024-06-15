@@ -6,7 +6,7 @@ subtitle: Ph.D. in Geography, <a href='https://ggis.illinois.edu/'>University of
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: zy_website_headshot.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>1042 Natural History Building</p>
