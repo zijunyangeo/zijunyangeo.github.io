@@ -9,10 +9,8 @@ profile:
   image: zy_website_headshot.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>1042 Natural History Building</p>
-    
-    <p>1301 W. Green St.</p>
-    
+    <p>1042 Natural History Building</p><br>
+    <p>1301 W. Green St.</p><br>
     <p>Urbana, IL 61801</p>
 
 news: false # includes a list of news items
