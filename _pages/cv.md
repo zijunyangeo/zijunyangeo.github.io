@@ -5,7 +5,7 @@ title: cv
 nav: true
 nav_order: 1
 cv_pdf: ZijunYang_UIUC_CV_May2024.pdf
-description: (see the pdf for full CV)
+description: <a href='https://zijunyangeo.github.io/assets/pdf/ZijunYang_UIUC_CV_May2024.pdf'>full CV</a>
 toc:
   sidebar: left
 ---
