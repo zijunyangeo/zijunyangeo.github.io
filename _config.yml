@@ -319,9 +319,9 @@ scholar:
   details_link: Details
 
   query: "@*"
-  # group_by: year
-  # group_order: descending
-  sort_by: ord
+  group_by: ord
+  group_order: descending
+  # sort_by: ord
   # group_order: ["working paper", 2026, 2025, 2024, 2023, 2022, 2021, 2020]
 
 # Display different badges withs stats for your publications
