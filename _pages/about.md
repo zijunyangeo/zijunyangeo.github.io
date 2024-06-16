@@ -11,7 +11,7 @@ profile:
   more_info: >
     <p>1042 Natural History Building</p><br>
     <p>1301 West Green Street</p><br>
-    <p>Urbana, IL 61801</p>
+    <p>Urbana, IL 61801 </p>
 
 news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
