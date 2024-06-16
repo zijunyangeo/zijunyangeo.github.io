@@ -9,10 +9,10 @@ profile:
   image: zy_headshot_hi.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
+    <p>zijuny2 [at] illinois [dot] edu</p><br>
     <p>1042 Natural History Building</p><br>
     <p>1301 West Green Street</p><br>
-    <p>Urbana, IL 61801</p><br><br>
-    <p>zijuny2 [at] illinois [dot] edu</p>
+    <p>Urbana, IL 61801</p>
 
 news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
