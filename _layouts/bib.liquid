@@ -30,7 +30,7 @@
         {%- if site.data.venues[entry.abbr2] -%}
           {% assign venue_style = null %}
           {% if site.data.venues[entry.abbr2].color != blank %}
-            {% assign venue_style = site.data.venues[entry.abbr2].color | prepend: 'style="background-color:' | append: '"' %}
+            {% assign venue_style = 'style="background-color:' | append: site.data.venues[entry.abbr2].color | append: '; color: white;"' %}
           {%- endif -%}
           <abbr2
             class="badge rounded w-100"
@@ -39,15 +39,15 @@
             {% endif -%}
           >
             {% if site.data.venues[entry.abbr2].url %}
-              <a href="{{site.data.venues[entry.abbr2].url}}">{{ entry.abbr2 }}</a>
+              <a href="{{site.data.venues[entry.abbr2].url}}" style="color: white;">{{ entry.abbr2 }}</a>
             {% else %}
-              <div>{{- entry.abbr2 -}}</div>
+              <div style="color: white;">{{- entry.abbr2 -}}</div>
             {% endif %}
           </abbr2>
         {% else %}
-          <abbr2 class="badge rounded w-100">{{ entry.abbr2 }}</abbr2>
+          <abbr2 class="badge rounded w-100" style="color: white;">{{ entry.abbr2 }}</abbr2>
         {% endif %}
-      {% endif %}
+      {%- endif -%}
 
       {% if entry.preview %}
         {% if entry.preview contains '://' %}
