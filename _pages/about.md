@@ -5,7 +5,7 @@ permalink: /
 subtitle: Ph.D. in Geography, <a href='https://ggis.illinois.edu/'>University of Illinois Urbana-Champaign</a>
 
 profile:
-  align: left
+  align: right
   image: zy_headshot_hi.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
