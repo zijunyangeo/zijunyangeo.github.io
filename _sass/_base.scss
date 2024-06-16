@@ -690,7 +690,24 @@ footer.sticky-bottom {
 
         abbr {
           display: inline-block;
-          background-color: var(--global-theme-color);
+          background-color: #006666; /* #{$seahawk-teal-color};*/ /* var(--global-theme-color); */
+          margin-bottom: 0.5rem;
+
+          a {
+            color: white;
+
+            &:hover {
+              text-decoration: none;
+            }
+          }
+        }
+
+        .abbr2 {
+        margin-bottom: 0.5rem;
+
+        abbr2 {
+          display: inline-block;
+          background-color: #006666; /* #{$seahawk-teal-color};*/ /* var(--global-theme-color); */
           margin-bottom: 0.5rem;
 
           a {
