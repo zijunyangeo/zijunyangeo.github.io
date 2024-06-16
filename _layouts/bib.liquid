@@ -43,8 +43,8 @@
         {% endif %}
       {% endif %}
 
-      <div class="col col-sm-2 abbr2">
-        {%- if entry.abbr2 -%}
+      {%- if entry.abbr2 -%}
+        <div class="col col-sm-2 abbr2">
           {%- if site.data.venues[entry.abbr2] -%}
             {% assign venue_style = null %}
             {% if site.data.venues[entry.abbr2].color != blank %}
@@ -65,11 +65,11 @@
           {% else %}
             <abbr2 class="badge rounded w-100" style="color: white;">{{ entry.abbr2 }}</abbr2>
           {% endif %}
-        {%- endif -%}
-      </div>
+        </div>{%- endif -%}
+      {%- endif -%}
   
-      <div class="col col-sm-2 year">
-        {%- if entry.year -%}
+      {%- if entry.year -%}
+        <div class="col col-sm-2 year">
           {%- if site.data.venues[entry.year] -%}
             {% assign venue_style = null %}
             {% if site.data.venues[entry.year].color != blank %}
@@ -90,8 +90,8 @@
           {% else %}
             <year class="badge rounded w-100" style="color: white;">{{ entry.year }}</year>
           {% endif %}
-        {%- endif -%}
-      </div>
+        </div>
+      {%- endif -%}
 
     </div>
   {% endif %}
