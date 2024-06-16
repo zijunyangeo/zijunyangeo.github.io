@@ -3,8 +3,8 @@ layout: page
 permalink: /publications/
 title: publications
 description: >
-  my <a href='https://scholar.google.com/citations?user=yble580AAAAJ&hl=en' style='text-decoration: underline;'>google scholar</a> profile<br><br>
-  ^ denotes equal contribution
+  ^ denotes equal contribution<br>
+  my <a href='https://scholar.google.com/citations?user=yble580AAAAJ&hl=en' style='text-decoration: underline;'>google scholar</a> profile for latest publications
 nav: true
 nav_order: 2
 ---
