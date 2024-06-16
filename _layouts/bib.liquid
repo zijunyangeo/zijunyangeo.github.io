@@ -26,6 +26,26 @@
         {% endif %}
       {% endif %}
 
+      {% if entry.preview %}
+        {% if entry.preview contains '://' %}
+          <img class="preview z-depth-1 rounded" src="{{ entry.preview }}">
+        {% else %}
+          {% assign entry_path = entry.preview | prepend: '/assets/img/publication_preview/' %}
+          {%
+            include figure.liquid
+            loading="eager"
+            path=entry_path
+            sizes = "200px"
+            class="preview z-depth-1 rounded"
+            zoomable=true
+            alt=entry.preview
+          %}
+        {% endif %}
+      {% endif %}
+    </div>
+
+    {% if site.enable_publication_thumbnails %}
+    <div class="col col-sm-2 abbr2">
       {%- if entry.abbr2 -%}
         {%- if site.data.venues[entry.abbr2] -%}
           {% assign venue_style = null %}
@@ -46,23 +66,6 @@
           </abbr2>
         {% else %}
           <abbr2 class="badge rounded w-100">{{ entry.abbr2 }}</abbr2>
-        {% endif %}
-      {% endif %}
-
-      {% if entry.preview %}
-        {% if entry.preview contains '://' %}
-          <img class="preview z-depth-1 rounded" src="{{ entry.preview }}">
-        {% else %}
-          {% assign entry_path = entry.preview | prepend: '/assets/img/publication_preview/' %}
-          {%
-            include figure.liquid
-            loading="eager"
-            path=entry_path
-            sizes = "200px"
-            class="preview z-depth-1 rounded"
-            zoomable=true
-            alt=entry.preview
-          %}
         {% endif %}
       {% endif %}
     </div>
