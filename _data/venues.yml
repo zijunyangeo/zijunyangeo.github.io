@@ -7,3 +7,12 @@
 
 "Vision":
   color: "#009f36"
+
+"journal":
+  color: "#003366"
+
+"working paper":
+  color: "#006666"
+
+"conference":
+  color: "#af7f1b"
