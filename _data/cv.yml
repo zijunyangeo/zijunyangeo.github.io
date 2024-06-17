@@ -1,4 +1,4 @@
-- title: General Information
+- title: general information
   type: map
   contents:
     - name: Name
@@ -8,7 +8,7 @@
     - name: Address
       value: 1042 Natural History Building <br> 1301 W Green St <br> Urbana, IL 61801
 
-- title: Education
+- title: education
   type: time_table
   contents:
     - title: Ph.D., Geography
@@ -21,7 +21,7 @@
       institution: Sun Yat-sen University, Guangzhou, China
       year: 2016
 
-- title: Professional Appointments
+- title: professional appointments
   type: time_table
   contents:
     - title: Graduate Research Fellow
