@@ -1,12 +1,14 @@
-- title: Zijun Yang
+- title: General Information
   type: map
   contents:
+    - name: Name
+      value: Zijun Yang
     - name: Email
       value: zijuny2 [at] illinois [dot] edu
     - name: Address
       value: 1042 Natural History Building <br> 1301 W Green St <br> Urbana, IL 61801
 
-- title: education
+- title: Education
   type: time_table
   contents:
     - title: Ph.D., Geography
@@ -19,7 +21,7 @@
       institution: Sun Yat-sen University, Guangzhou, China
       year: 2016
 
-- title: professional appointments
+- title: Professional Appointments
   type: time_table
   contents:
     - title: Graduate Research Fellow
