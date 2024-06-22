@@ -21,6 +21,45 @@
       institution: Sun Yat-sen University (Guangzhou, China)
       year: 2016
 
+- title: Professional Experience
+  type: time_table
+  contents:
+    - title: Graduate Research Fellow
+      department: Department of Geography and GIScience
+      institution: University of Illinois Urbana-Champaign
+      year: 2023 - 2024
+      description:
+        - Machine learning approach for near real-time crop phenology mapping
+        - Fusion of multi-scale satellite images for field-scale crop characterization
+    - title: Graduate Research Assistant
+      department: Department of Geography and GIScience
+      institution: University of Illinois Urbana-Champaign
+      year: 2019-2023
+      description:
+        - Phenology-guided near real-time crop type mapping
+        - Spatiotemporal fusion of multi-scale remote sensing images
+        - Remote characterization of vegetation phenology
+    - title: Graduate Teaching Assistant
+      department: Department of Geography and GIScience
+      institution: University of Illinois Urbana-Champaign
+      year: 2018-2019
+      description:
+        - GEOG 379 – Intro to GIS Systems, Spring 2019
+        - GEOG 105 – Digital Earth, Fall 2018
+    - title: Graduate Student Instuctor
+      department: School for Environment and Sustainability
+      institution: University of Michigan--Ann Arbor
+      year: 2018
+      description:
+        - EAS 541 – Remote Sensing of Environment
+    - title: Undergaduate Research Assistant
+      department: School of Geography and Planning
+      institution: Sun Yat-sen University
+      year: 2015-2016
+      description:
+        - Spectral unmixing for urban impervious surface identification
+        - Investigation of urban heat island effects in Guangzhou City using Landsat images
+
 - title: Honors and Awards
   type: time_table
   contents:
@@ -54,45 +93,6 @@
     - title: SYSU Outstanding Student League Member
       institution: Sun Yat-Sen University
       year: 2014
-
-- title: Professional Experience
-  type: time_table
-  contents:
-    - title: Graduate Research Fellow
-      department: Department of Geography and GIScience
-      institution: University of Illinois Urbana-Champaign
-      year: 2023 - 2024
-      description:
-        - Planet Fellowship
-        - Foster Graduate Fellowship
-        - Block Grant Fellowship
-    - title: Graduate Research Assistant
-      department: Department of Geography and GIScience
-      institution: University of Illinois Urbana-Champaign
-      year: 2019-2023
-      description:
-        - Machine learning approaches for near real-time crop characterization
-        - Spatiotemporal fusion of multi-scale remote sensing images
-        - Remote characterization of vegetation phenology
-    - title: Graduate Teaching Assistant
-      department: Department of Geography and GIScience
-      institution: University of Illinois Urbana-Champaign
-      year: 2018-2019
-      description:
-        - GEOG 379 – Intro to GIS Systems, Spring 2019
-        - GEOG 105 – Digital Earth, Fall 2018
-    - title: Graduate Student Instuctor
-      department: School for Environment and Sustainability
-      institution: University of Michigan--Ann Arbor
-      year: 2018
-      description:
-        - EAS 541 – Remote Sensing of Environment
-    - title: Undergaduate Research Assistant
-      department: School of Geography and Planning
-      institution: Sun Yat-sen University
-      year: 2015-2016
-      description:
-        - Spectral unmixing for urban impervious surface identification
 
 - title: Professional Membership
   type: time_table
