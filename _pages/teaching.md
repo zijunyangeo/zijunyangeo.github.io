@@ -33,7 +33,7 @@ nav_order: 6
 
 ### University of Michigan
 
-> EAS 541 – Remote Sensing of Environment, Graduate Student Instructor, Winter 2018
+> [EAS 541 – Remote Sensing of Environment](https://seas.umich.edu/academics/courses/remote-sensing-environment), Graduate Student Instructor, Winter 2018
 
 *Course description: Remote sensing, including aerial and satellite imagery is one of the most useful and important spatial information sources in both GIS and environmental sciences defined broadly. This course covers remote sensing data and methods in research and resource management in fields ranging from conservation ecology, GIS/informatics, environmental health and justice, climate change, geology, urban studies, biodiversity, land management, sustainability science, and many others. Lecture periods provide a comprehensive introduction to remote sensing principles and sensors/data. Weekly lab sessions provide for a hands-on experience of: main types of interpretation and analyses, use of widely-used ERDAS IMAGINE, ArcGIS Pro, and Google Earth Engine software, and different types of remote sensing imagery.*
 
