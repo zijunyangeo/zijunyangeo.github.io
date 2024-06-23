@@ -97,11 +97,11 @@
 - title: Professional Membership
   type: time_table
   contents:
-    - institution: American Association of Geographers (AAG)
+    - title: American Association of Geographers (AAG)
       year: 2020-present
       description:
         - Student Co-Director, Remote Sensing Specialty Group
-    - institution: American Geophysical Union (AGU)
+    - title: American Geophysical Union (AGU)
       year: 2022-present
 
 - title: Certificates
