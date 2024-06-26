@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I am going to have an oral presententation and a poster at AGU 2023 Fall Meeting. See you in San Francisco!
+I will give an oral presententation on crop mapping and a poster presentation on crop phenology characterization at AGU 2023 Fall Meeting. See you in San Francisco!
