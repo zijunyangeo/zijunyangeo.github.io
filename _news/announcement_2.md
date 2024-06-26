@@ -2,7 +2,7 @@
 layout: post
 title: I will present my recent phenology work and chair multiple sessions at AAG 2024 in Honolulu, Hawaii. 
 date: 2024-03-01
-inline: true
+inline: false
 related_posts: false
 ---
 
