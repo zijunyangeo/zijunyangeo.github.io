@@ -1,6 +1,6 @@
 ---
 layout: post
-title: I am presenting my recent phenology work and organizing multiple sessions at AAG 2024 in Honolulu, Hawaii (click for details). 
+title: I am presenting my recent phenology work and organizing paper sessions at AAG 2024 in Honolulu, Hawaii (click for details). 
 date: 2024-03-30
 inline: false
 related_posts: false
