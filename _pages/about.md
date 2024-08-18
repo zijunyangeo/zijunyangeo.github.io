@@ -9,7 +9,10 @@ profile:
   image: zy_headshot_hi.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>zijuny2 [at] illinois [dot] edu</p><br><br>
+    <p>yangz [at] uncw [dot] edu</p><br><br>
+    <p>1337 Center for Marine Science</p><br>
+    <p>5600 Marvin K. Moss Lane</p>
+    <p>Wilmington, NC 28409</p>
     
 
 news: true # includes a list of news items
