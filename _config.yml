@@ -2,11 +2,11 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Zijun Yang - Assistant Professor at UNCW # title: blank # the website title (if blank, full name will be used instead)
+title: blank # the website title (if blank, full name will be used instead)
 first_name: Zijun
 middle_name: 
 last_name: Yang
-email: zijuny2@illinois.edu
+email: yangz@uncw.edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Zijun Yang's personal website.
 footer_text: > # Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
