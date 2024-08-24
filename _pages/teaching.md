@@ -9,7 +9,7 @@ nav_order: 6
 
 ### University of North Carolina Wilmington
 
-> GGY 429/529 – Aerial Drone Applications in Geosciences, Instructor, [Fall 2014](https://seanet.uncw.edu/TEAL/bwckctlg.p_disp_course_detail?cat_term_in=202510&subj_code_in=GGY&crse_numb_in=429)
+> GGY 429/529 – Aerial Drone Applications in Geosciences, Instructor, [Fall 2024](https://seanet.uncw.edu/TEAL/bwckctlg.p_disp_course_detail?cat_term_in=202510&subj_code_in=GGY&crse_numb_in=429)
 
 *Course description: Introduction to the various applications of unmanned aerial systems (UAS) in the geosciences organized into four modules: introduction to remote sensing and photogrammetry, basics of UAS regulatory frameworks, field data collection using small UASs and an introduction to UAS-collected data processing using state-of-the-art software and processing tools.*
 
