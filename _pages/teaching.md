@@ -7,6 +7,12 @@ nav: true
 nav_order: 6
 ---
 
+### University of North Carolina Wilmington
+
+> GGY 429/529 – Aerial Drone Applications in Geosciences, Instructor, [Fall 2014](https://seanet.uncw.edu/TEAL/bwckctlg.p_disp_course_detail?cat_term_in=202510&subj_code_in=GGY&crse_numb_in=429)
+
+*Course description: Introduction to the various applications of unmanned aerial systems (UAS) in the geosciences organized into four modules: introduction to remote sensing and photogrammetry, basics of UAS regulatory frameworks, field data collection using small UASs and an introduction to UAS-collected data processing using state-of-the-art software and processing tools.*
+
 ### University of Illinois Urbana-Champaign
 
 > GEOG 477 – Introduction to Remote Sensing, Guest Lecturer, [Fall 2019](https://courses.illinois.edu/schedule/2019/fall/GEOG/477) and [Spring 2021](https://courses.illinois.edu/schedule/2021/spring/GEOG/477)
