@@ -2,13 +2,36 @@
 ---
 
 
-@article{working2,
-  abbr2 = {working paper},
-  author = {Lyu†, Fangzheng and Yang†, Zijun and Diao, Chunyuan and Wang, Shaowen},
-  title = {Multi-stream STGAN: A Spatiotemporal Image Fusion Model with Improved Temporal Transferability},
-  journal = {working paper},
-  year = {under review},
-  abstract = {Spatiotemporal satellite image fusion aims to generate remote sensing images satisfying both high spatial and temporal resolution by integrating different satellite imagery datasets with distinct spatial and temporal resolutions. Such fusion technique is crucial for numerous applications that require frequent monitoring at fine spatial and temporal scales spanning agriculture, environment, natural resources and disaster management. However, existing fusion models have difficulty accommodating abrupt spatial changes in land cover among images and dealing with temporally distant image data. This study proposes a novel multi-stream spatiotemporal fusion generative adversarial network (STGAN) model for spatiotemporal satellite image fusion that can produce accurate fused images and accommodate substantial temporal differences between the input images.}
+@article{lyu_multistream_2025,
+	title = {Multistream STGAN: A Spatiotemporal Image Fusion Model With Improved Temporal Transferability},
+	volume = {18},
+	issn = {2151-1535},
+	url = {https://ieeexplore.ieee.org/document/10767408/},
+	doi = {10.1109/JSTARS.2024.3506879},
+	abstract = {Spatiotemporal satellite image fusion aims to generate remote sensing images satisfying both high spatial and temporal resolution by integrating different satellite imagery datasets with distinct spatial and temporal resolutions. Such fusion technique is crucial for numerous applications that require frequent monitoring at fine spatial and temporal scales spanning agriculture, environment, natural resources, and disaster management. However, existing fusion models have difficulty accommodating abrupt spatial changes in land cover among images and dealing with temporally distant image data. This article proposes a novel multistream spatiotemporal fusion generative adversarial network (STGAN) model for spatiotemporal satellite image fusion that can produce accurate fused images and accommodate substantial temporal differences between the input images. The STGAN employs a conditional generative adversarial network architecture with a multistream input design to better learn temporal features. The generator of STGAN comprises convolutional blocks, a spatial transformer module, a channel attention network, and a U-net module designed to better capture spatial and temporal features from the multiresolution input images. Comprehensive evaluations of the proposed STGAN model have been performed on the Coleambally Irrigation Area and Lower Gwydir Catchment datasets, using both visual inspection and spatial and spectral metrics, including root mean square error, relative dimensionless global error synthesis, spectral angle mapping, structural similarity index measure, and local binary pattern. The experiments show that the proposed STGAN model consistently outperforms existing benchmark models and is capable of generating high-quality fused remote sensing data product of high spatial and temporal resolution.},
+	urldate = {2026-02-24},
+	journal = {IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing},
+	author = {Lyu†, Fangzheng and Yang†, Zijun and Diao, Chunyuan and Wang, Shaowen},
+	year = {2025},
+	keywords = {Remote sensing, remote sensing, Spatial resolution, Adaptation models, Data models, Deep learning, generative adversarial network (GAN), Generative adversarial networks, Image fusion, Image resolution, Predictive models, Satellite images, spatiotemporal image fusion, Spatiotemporal phenomena},
+	pages = {1562--1576},
+  preview = {STGAN_preview.png}
+}
+
+@article{liu_novel_2025,
+	title = {A novel Normalized Harvest Phenology Index (NHPI) for corn and soybean harvesting date detection using Landsat and Sentinel-2 imagery on Google Earth Engine},
+	volume = {331},
+	issn = {0034-4257},
+	url = {https://www.sciencedirect.com/science/article/pii/S0034425725004201},
+	doi = {10.1016/j.rse.2025.115016},
+	abstract = {The timing of harvesting is crucial for determining crop yield potential as it influences the final stages of the crop growth cycle and affects crop grain quality. Early harvesting can lead to yield losses from excessive moisture and insufficient dry matter, while delayed harvesting can degrade grain quality due to over-maturation and increased susceptibility to weather, pests, and diseases. Accurate monitoring of harvest timing is essential to assess yield gaps, support profitable and sustainable farming practices, and optimize agricultural supply chains. However, remote sensing-based harvesting date detection methods often suffer from biases due to the inconsistent relationship between end-of-season (EOS) metrics in vegetation index (VI) time series and actual harvesting dates. This inconsistency occurs because harvesting decisions are often influenced by human factors such as equipment availability, labor constraints, and fuel costs, rather than plant condition alone. In this study, we develop a novel Normalized Harvest Phenology Index (NHPI) that integrates the Normalized Difference Vegetation Index (NDVI) and the Near-Infrared (NIR) reflectance to accurately monitor whether fields of corn and soybean have been harvested. Leveraging the distinct separability of NIR reflectance for corn and soybean before harvesting (senescent plants) and after harvesting (crop residue), combined with the contrasting trends between NIR and NDVI during this transition, the NIR-to-NDVI ratio amplifies the harvesting signal in its time series, making it a robust indicator of harvesting events. As the first spectral index designed for scalable identification of crop harvesting stage, the developed NHPI is applied to map harvesting dates for corn and soybean fields across the U.S. Midwest from 2020 to 2023 using Landsat and Sentinel-2 imagery via Google Earth Engine (GEE). At the field level, the NHPI-based harvesting date estimation method achieves a mean absolute error (MAE) of 4 days and an R2 of 0.85 when compared against field-recorded harvesting dates, significantly outperforming all advanced harvesting date estimation benchmarks (i.e., EOS phenometric-based method, shape model fitting method (SMF), and shape model fitting by the separate phenological stage method (SMF-S). The NHPI-based harvesting date mapping also shows strong alignment with the state-level cumulative distribution of harvesting dates of the USDA crop progress reports, achieving an average MAE of 3 days. Further analysis of NHPI values before and after harvesting events reveals its strong adaptability to diverse weather conditions at large scales, highlighting its efficiency and robustness.},
+	urldate = {2026-02-24},
+	journal = {Remote Sensing of Environment},
+	author = {Liu, Yin and Diao, Chunyuan and Yang, Zijun and Mei, Weiye and Guo, Tianci},
+	year = {2025},
+	keywords = {Google Earth Engine, Phenology, Vegetation index, Agriculture, Harvesting date},
+	pages = {115016},
+  preview = {NHPI_preview.jpg}
 }
 
 @article{emet,
