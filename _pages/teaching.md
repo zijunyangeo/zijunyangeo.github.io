@@ -9,9 +9,13 @@ nav_order: 6
 
 ### University of North Carolina Wilmington
 
-> GGY 429/529 – Aerial Drone Applications in Geosciences, Instructor, [Fall 2024](https://seanet.uncw.edu/TEAL/bwckctlg.p_disp_course_detail?cat_term_in=202510&subj_code_in=GGY&crse_numb_in=429)
+> GGY 480/593 – Open-Source Geospatial Data Analysis, Instructor, [Fall 2025-2026]
 
-*Course description: Introduction to the various applications of unmanned aerial systems (UAS) in the geosciences organized into four modules: introduction to remote sensing and photogrammetry, basics of UAS regulatory frameworks, field data collection using small UASs and an introduction to UAS-collected data processing using state-of-the-art software and processing tools.*
+*Course description: Open‑source software has transformed how geographers, planners, and environmental scientists work with spatial information. This course is an accessible, project‑driven introduction to the open‑source geospatial data analysis tools (e.g., QGIS, Python, GeoPandas, rasterio, Google Earth Engine) for acquiring, managing, analyzing, and visualizing spatial data. It is designed for students who have a basic understanding of geospatial fundamentals (e.g., coordinate systems, vector‑vs‑raster concepts, map interpretation) but have minimal or no prior programming background. By the end of the semester, students will have a portfolio of open‑source geospatial analyses and the confidence to continue learning more advanced tools on their own.*
+
+> GGY 101 – Modern World Geography, Instructor, [Spring 2025-2026]
+
+*Course description: The theory, techniques, and professional application of modern geographic science. Examines geography as a broad interdisciplinary science focused on places, spatial patterns, and the interaction between human activities and the natural world. Includes discussion of the historical origins and modern relevance of geographic thought.*
 
 ### University of Illinois Urbana-Champaign
 
