@@ -1,0 +1,8 @@
+@article{working2,
+  abbr2 = {working paper},
+  author = {Lyu†, Fangzheng and Yang†, Zijun and Diao, Chunyuan and Wang, Shaowen},
+  title = {Multi-stream STGAN: A Spatiotemporal Image Fusion Model with Improved Temporal Transferability},
+  journal = {working paper},
+  year = {under review},
+  abstract = {Spatiotemporal satellite image fusion aims to generate remote sensing images satisfying both high spatial and temporal resolution by integrating different satellite imagery datasets with distinct spatial and temporal resolutions. Such fusion technique is crucial for numerous applications that require frequent monitoring at fine spatial and temporal scales spanning agriculture, environment, natural resources and disaster management. However, existing fusion models have difficulty accommodating abrupt spatial changes in land cover among images and dealing with temporally distant image data. This study proposes a novel multi-stream spatiotemporal fusion generative adversarial network (STGAN) model for spatiotemporal satellite image fusion that can produce accurate fused images and accommodate substantial temporal differences between the input images.}
+}
