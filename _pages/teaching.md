@@ -9,11 +9,11 @@ nav_order: 6
 
 ### University of North Carolina Wilmington
 
-> GGY 480/593 – Open-Source Geospatial Data Analysis, Instructor, [Fall 2025-2026]
+> GGY 480/593 – Open-Source Geospatial Data Analysis, Instructor, Fall 2025-2026
 
 *Course description: Open‑source software has transformed how geographers, planners, and environmental scientists work with spatial information. This course is an accessible, project‑driven introduction to the open‑source geospatial data analysis tools (e.g., QGIS, Python, GeoPandas, rasterio, Google Earth Engine) for acquiring, managing, analyzing, and visualizing spatial data. It is designed for students who have a basic understanding of geospatial fundamentals (e.g., coordinate systems, vector‑vs‑raster concepts, map interpretation) but have minimal or no prior programming background. By the end of the semester, students will have a portfolio of open‑source geospatial analyses and the confidence to continue learning more advanced tools on their own.*
 
-> GGY 101 – Modern World Geography, Instructor, [Spring 2025-2026]
+> GGY 101 – Modern World Geography, Instructor, Spring 2025-2026
 
 *Course description: The theory, techniques, and professional application of modern geographic science. Examines geography as a broad interdisciplinary science focused on places, spatial patterns, and the interaction between human activities and the natural world. Includes discussion of the historical origins and modern relevance of geographic thought.*
 
