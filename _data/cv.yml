@@ -67,25 +67,28 @@
 - title: Honors and Awards
   type: time_table
   contents:
-    - title: Block Grant Fellowship ($20,000)
+    - title: College of Science and Engineernig Research Initiative 
+      institution: University of North Carolina Wilmington
+      year: 2025
+    - title: Block Grant Fellowship 
       institution: University of Illinois Urbana-Champaign
       year: 2023
-    - title: Foster Graduate Fellowship ($2,200)
+    - title: Foster Graduate Fellowship 
       institution: University of Illinois Urbana-Champaign
       year: 2023
-    - title: Planet Fellowship ($10,000)
+    - title: Planet Fellowship 
       institution: Taylor Geospatial Institute
       year: 2023
-    - title: Schlesinger Travel Grant ($750)
+    - title: Schlesinger Travel Grant 
       institution: University of Illinois Urbana-Champaign
       year: 2022
     - title: Best Geography and GIS Poster
       institution: 2021 SESE Research Review, University of Illinois Urbana-Champaign
       year: 2021
-    - title: Supplementary Summer Block Grant ($1000)
+    - title: Supplementary Summer Block Grant
       institution: University of Illinois Urbana-Champaign
       year: 2020
-    - title: Student Honors Paper Competition Award – First Place ($500)
+    - title: Student Honors Paper Competition Award – First Place 
       institution: Remote Sensing Specialty Group, American Association of Geographers (AAG)
       year: 2020
     - title: Teacher Ranked as Excellent
@@ -108,8 +111,3 @@
     - title: American Geophysical Union (AGU)
       year: 2022-present
 
-- title: Certificates
-  type: time_table
-  contents:
-    - title: FAA Part 107 Remote Pilot Certificate
-      year: 2018-present
